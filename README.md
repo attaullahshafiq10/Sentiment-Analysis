@@ -5,6 +5,9 @@ Demo on 'Sentiment Analysis of Amazon'. Understanding the sentiment of the textu
 
 
 For Source Code visit: https://github.com/attaullahshafiq10
+
 Demo Video: https://youtu.be/yyWLTGdMaLo
-Demo : https://youtu.be/yyWLTGdMaLo
+
+
+
 #Data_Science #Sentiment_Analysis #Python
